@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 | <img src="https://source.unsplash.com/collection/11468298/400x400>" width="200" height="200">  |  <img src="https://source.unsplash.com/collection/1020951/400x400" width="200" height="200"> |
 
 
-![chiefgunner](https://github.com/chiefgunner/chiefgunner/src/assets/code.png)
+![chiefgunner](https://github.com/chiefgunner/chiefgunner/blob/master/src/assets/code1.png)
 
 <!-- **chiefgunner/chiefgunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,16 +35,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 <!-- **🔭 Current Project:** mt-app
-
 **🌱 Currently Learning:** Laravel
-
 **🤔 Thinking about:** Sleeping
-
 **📫 Email me:** sundongunner@gmail.com
-
 **😄 Pronouns:** he/him/his
-
-**⚡ Fun fact:** Gimme Music and I will work 48hrs a day!! -->
+**⚡ Fun fact:** Gimme Music and I will work 48hrs a day!!       -->
 
 <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
